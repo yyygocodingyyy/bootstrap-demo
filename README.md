@@ -21,13 +21,21 @@
  ## campuses
  * no bootstrap
  * responsive design with grid
+ * grid is able to became from 4-> 2 -> 1 row
  * edited campuses.html & pages/campuses.css
  * campuses.html:
    * only created new "cards" class
  * campuses.css
-   * the whole file
+   * edited the whole file
    * need to link/import in style.css
   
+  ## campuses-with-map.html
+  * BROKEN (copy the whole code)
+  * grid & map did not take the whole size
+  * created:
+    * main container class
+    * mapbox account to link user token
+    * map is sticky(css file), so scroll down the grid, map won't move
 
 
 
