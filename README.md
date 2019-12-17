@@ -23,10 +23,10 @@
  * responsive design with grid
  * edited campuses.html & pages/campuses.css
  * campuses.html:
-  * only created new "cards" class
+   * only created new "cards" class
  * campuses.css
-  * the whole file
-  * need to link/import in style.css
+   * the whole file
+   * need to link/import in style.css
   
 
 
