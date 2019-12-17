@@ -1,2 +1,5 @@
-# bootstrap-demo
-layout demo with boostrap
+# Bootstrap Demo
+* layout demo with boostrap
+* source file to begin with: https://github.com/lewagon/layouts-demo
+
+
