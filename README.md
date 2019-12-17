@@ -32,6 +32,7 @@
   ## Campuses with map
   * BROKEN (copy the whole code)
   * grid & map did not take the whole size
+  * small edit of campuses-with-map.html & pages/campuses.css
   * created:
     * main container class
     * mapbox account to link user token
