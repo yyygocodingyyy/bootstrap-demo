@@ -18,7 +18,7 @@
   * col-md
  ![Alt text](https://github.com/yyygocodingyyy/bootstrap-demo/blob/master/sample/Screenshot%20from%202019-12-17%2017-48-16.png)
  
- ## campuses
+ ## Campuses
  * no bootstrap
  * responsive design with grid
  * grid is able to became from 4-> 2 -> 1 row
@@ -29,7 +29,7 @@
    * edited the whole file
    * need to link/import in style.css
   
-  ## campuses-with-map.html
+  ## Campuses with map
   * BROKEN (copy the whole code)
   * grid & map did not take the whole size
   * created:
