@@ -30,13 +30,14 @@
    * need to link/import in style.css
   
   ## Campuses with map
-  * BROKEN (copy the whole code)
-  * grid & map did not take the whole size
+  * <s>BROKEN(grid & map did not take the whole size)</s> (fixed)
+  * " flex-grow: 1;"
   * small edit of campuses-with-map.html & pages/campuses.css
   * created:
     * main container class
     * mapbox account to link user token
     * map is sticky(css file), so scroll down the grid, map won't move
+  * ![Alt text](https://github.com/yyygocodingyyy/bootstrap-demo/blob/master/sample/map.png)
 
 
 
