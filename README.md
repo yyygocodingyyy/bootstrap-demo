@@ -37,6 +37,7 @@
     * main container class
     * mapbox account to link user token
     * map is sticky(css file), so scroll down the grid, map won't move
+    * styled campuses.css(code under "/*map design*/")
   * ![Alt text](https://github.com/yyygocodingyyy/bootstrap-demo/blob/master/sample/map.png)
 
 
